@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">快递查询</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_title">逗BI 快递查询</string>
+    <string name="company">选择快递公司</string>
+    <string name="order_no">输入订单号</string>
+    <string name="query_now">Query Now!</string>
+    <string name="sf_text">顺风</string>
+    <string name="sto_text">申通</string>
+    <string name="yt_text">圆通</string>
+    <string name="tt_text">天天</string>
+    <string name="ems_text">EMS</string>
+    <string name="zto_text">中通</string>
+    <string name="ht_text">汇通</string>
+    <string name="yd_text">韵达</string>
+    <string name="input_tips">请输入订单号</string>
+    <string name="order_sure_btn">√</string>
+    <string name="order_warning_tips">订单号不能为空！~</string>
+    <string name="text_loading_msg">加载中,请稍候…</string>
+    <string name="text_loading_title">提示</string>
+    <string name="text_info_null_tips">请输入必填项！~</string>
+    <string name="msg_dialog_title">提示信息</string>
+    <string name="msg_dialog_content">信息内容</string>
+    <string name="msg_dialog_left_button_text">确定</string>
+    <string name="msg_dialog_right_button_text">取消</string>
+    <string name="title_activity_express_info">ExpressInfoActivity</string>
+    <string name="hello_world">Hello world!</string>
+    
+	<string name="time_line">|</string>
+</resources>
